@@ -1,0 +1,10 @@
+{
+  "name": "doubles",
+  "version": "1.0.0",
+  "description": "remove www from hapi hostnames",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": ["hapi"],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT"
+}
